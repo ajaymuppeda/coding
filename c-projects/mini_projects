@@ -1,0 +1,17 @@
+1. ***Hello, World!***: Create a program that prints "Hello, World!" to the screen.    
+
+2. **Simple Calculator**: Write a program that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.       
+
+3. **Guess the Number**: Implement a game where the computer randomly selects a number within a certain range, and the user has to guess it.        
+
+4. **Factorial Calculator**: Develop a program that calculates the factorial of a number entered by the user.      
+
+5. **Fibonacci Sequence**: Create a program that generates and displays the Fibonacci sequence up to a certain number of terms.      
+
+6. **Sum of two numbers**: Write a C program to find the sum of two numbers entered by the user.   
+
+7. Write a C program to swap the values of two variables without using a temporary variable.    
+
+8. Write a C program to check if a number is even or odd.       
+
+9. Write a C program to find the largest of three numbers entered by the user.      

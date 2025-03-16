@@ -1,0 +1,27 @@
+1. Write a C program to print the Fibonacci sequence up to a given number.    
+
+2. Write a C program to reverse a given string.      
+
+3. Write a C program to count the number of vowels and consonants in a string.      
+
+4. Write a C program to find the GCD (Greatest Common Divisor) of two numbers using recursion.    
+
+5. Write a C program to sort an array of integers using the bubble sort algorithm.     
+
+6. Write a C program to implement a simple calculator (addition, subtraction, multiplication, division).    
+
+7. Write a C program to check if a given string is a palindrome.    
+
+8. Write a C program to find the transpose of a matrix.   
+
+9. Write a C program to find the sum of the diagonal elements of a square matrix.      
+
+10. Write a C program to implement a linked list and perform operations such as insertion, deletion, and traversal.    
+
+11. Write a C program to implement binary search on a sorted array.     
+
+12. Write a C program to dynamically allocate memory for an array of integers and find the average of the elements.     
+
+13. Write a C program to merge two sorted arrays into a single sorted array.     
+
+14. Write a C program to solve the Tower of Hanoi problem using recursion.    
